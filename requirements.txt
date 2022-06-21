@@ -78,7 +78,7 @@ ndg-httpsclient==0.5.1
 nemo-emblems==3.8.0
 nltk==3.3
 notebook==5.7.0
-numpy==1.15.3
+numpy==1.22.0
 numpydoc==0.7.0
 oauthlib==2.1.0
 pandas==0.23.4
